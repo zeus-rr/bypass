@@ -158,12 +158,12 @@ Regras:
 
 | Caminho | Conteúdo |
 |---------|----------|
-| `~/.extrator-pro/hashes/` | Arquivos `.hash` extraídos |
-| `~/.extrator-pro/wordlists/` | Wordlists geradas com Crunch |
-| `~/.extrator-pro/downloads/` | Arquivos baixados por URL |
-| `~/.extrator-pro/relatorios/` | Relatórios TXT e HTML |
-| `~/.extrator-pro/recriptografados/` | Arquivos com nova senha |
-| `~/.extrator-pro/historico.csv` | Histórico de operações |
+| `~/.bypass/hashes/` | Arquivos `.hash` extraídos |
+| `~/.bypass/wordlists/` | Wordlists geradas com Crunch |
+| `~/.bypass/downloads/` | Arquivos baixados por URL |
+| `~/.bypass/relatorios/` | Relatórios TXT e HTML |
+| `~/.bypass/recriptografados/` | Arquivos com nova senha |
+| `~/.bypass/historico.csv` | Histórico de operações |
 
 ---
 
