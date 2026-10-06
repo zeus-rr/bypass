@@ -153,7 +153,7 @@ Regras:
 
 - A senha **atual é obrigatória** (pode usar a recuperada pelo John na mesma sessão).
 - O original **não é modificado nem apagado**.
-- Saída em `~/.extrator-pro/recriptografados/`.
+- Saída em `~/.bypass/recriptografados/`.
 
 ---
 
