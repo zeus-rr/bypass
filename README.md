@@ -1,6 +1,8 @@
 # Bypass
 <img width="518" height="429" alt="image" src="https://github.com/user-attachments/assets/0632d282-090c-4921-9ae3-7d3d201c6697" />
 
+<https://github.com/zeus-rr/bypass/blob/main/bypass-sh-demo.mp4>
+
 Ferramenta em Bash para **extração de hashes** de arquivos protegidos (PDF, ZIP, RAR e 7-Zip), integração com **John the Ripper**, geração de wordlists com **Crunch**, relatórios e **recriptografia com nova senha**.
 
 
